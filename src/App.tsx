@@ -88,7 +88,7 @@ export default function App() {
             </p>
             <Sparkles className="w-6 h-6 text-pink-400 animate-spin" style={{ animationDuration: '3s' }} />
           </div>
-          <p className="text-xl text-purple-300">250+ members · 5 Mystery Boxes · 100% Fair</p>
+          <p className="text-xl text-purple-300">· 5 Mystery Boxes · 100% Fair</p>
         </div>
 
         {/* Game Status */}
